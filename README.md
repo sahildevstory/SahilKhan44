@@ -2,7 +2,6 @@
 <!-- <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhZ2UiLCJ0ZXh0IjoiSGlpJTIwISUyMEl0J3MlMjBtZSUyMFNhaGlsJTIwS2hhbiIsImlhdCI6MTcxOTIxMDUxMH0.rbHcfQp20782ZWl_OaIeA5SdnImT-InWIDgCl2453H8" alt="Hello Coders-Animation Loading" width="40%"/> <br> -->
 
 
-<img src= "images/profile.png" href="https://github.com/SahilKhan44" alt="Coder boy"  width="50%"/><br> 
 
 <i>Hello Developer! I'm Sahil Khan.
 <p>
