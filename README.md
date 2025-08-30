@@ -1,52 +1,57 @@
 <div align="center">
 
-#  Hey, I’m Sahil Khan  
-**Vibe Coder | “Building day by day — till 2027”**  
+# 👋 Hey, I’m Sahil Khan  
+**React & MERN Developer | Vibe Coder**  
+*"Building day by day — till 2027"* 🚀  
 
-[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=netlify&logoColor=white&label=sahilcreations.netlify.app)](https://sahilcreations.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahiltechjourney)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sahildevstory)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sahilcodestory)  
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sahilgiggles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiltechjourney/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahildevstory)  
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/sahilgiggles)
 
 </div>
 
 ---
 
-##  About Me
--  **Frontend & Backend Maker** — MERN, Python, Shopify, React, FastAPI  
--  **Current Role** — Building web solutions in Bhopal, always “building day by day”  
--  **Open to** — Freelance gigs, collabs, or remote projects  
--  Dive into my site below for a peek into my dev journey ⬇
+## 🧑‍💻 About Me
+- 🎓 B.Tech in Computer Science (Bhopal)  
+- 💻 Skilled in **MERN, React, FastAPI, Shopify (Liquid)**  
+- 🛠️ Built **email systems, admin dashboards, LLM APIs, Shopify stores**  
+- 🌍 Worked with **US-based startups** + freelance projects  
+- 🔥 Open for **remote | contract | full-time opportunities**
 
 ---
 
-##  Featured Projects
-<details>
-<summary><strong>😎 Showcase</strong></summary>
-
-- **mern-blog-app** – A full-stack blog engine with caching and token-based auth.  
-- **Portfolio** – A 3D, interactive showcase built with Three.js and React.  
-- **Disney-UI** – A fun Disney+ UI clone powered by React, Tailwind CSS, and TMDB API.  
-- **Resume-Builder** – A sleek resume generator using React, Vite, and Tailwind CSS.  
-- **Real-Time-ChatApp** – A realtime chat platform using Node.js and Socket.io.  
-</details>
-
-Explore more in my [GitHub repositories!](https://github.com/sahildevstory)
+## 🚀 Tech Stack
+`React` • `Next.js` • `Node.js` • `Express` • `MongoDB` • `FastAPI` •  
+`Python` • `TypeScript` • `Tailwind CSS` • `ShadCN UI` • `Material UI` • `Shopify (Liquid)`
 
 ---
 
-##  GitHub Stats
+## 📌 Featured Projects
+- 📩 **Email Sending System + UI** – Automated workflows + custom React frontend  
+- 📊 **Admin Dashboard** – Built with React + Material UI (data tables, charts)  
+- 🛒 **Shopify Store** – Pixel-perfect build from Figma using Liquid templates  
+- 🤖 **LLM API** – FastAPI based API for AI model integration  
+- 🌐 **Multiple React Projects** – For product-based companies, with reusable component design
+
+👉 Explore more in my [repositories](https://github.com/sahildevstory)!
+
+---
+
+## 📊 GitHub Stats
 <div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=sahildevstory&theme=tokyonight&show_icons=true&hide_border=true)  
+
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahildevstory&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildevstory&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-##  Let’s Connect!
- **Email:** sahil.khan44484@gmail.com  
- **Portfolio:** [whoissahilkhan.netlify.app](https://whoissahilkhan.netlify.app)  
+## 🌍 Let’s Connect
+📩 **Email:** sahil.khan44484@gmail.com  
+🔗 **Portfolio:** [whoissahilkhan.netlify.app](https://whoissahilkhan.netlify.app)  
 
 <div align="center">  
-*“Building day by day — let’s build something amazing together!”* 🚀  
+✨ *Skilled enough – hire me!* ✨  
 </div>
