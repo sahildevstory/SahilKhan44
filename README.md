@@ -32,17 +32,21 @@
 - 📊 **Admin Dashboard** – Built with React + Material UI (data tables, charts)  
 - 🛒 **Shopify Store** – Pixel-perfect build from Figma using Liquid templates  
 - 🤖 **LLM API** – FastAPI based API for AI model integration  
-- 🌐 **Multiple React Projects** – For product-based companies, with reusable component design
+- 🌐 **Multiple React Projects** – For product-based companies, with reusable component design  
 
 👉 Explore more in my [repositories](https://github.com/sahildevstory)!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <div align="center">
 
 ![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahildevstory&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildevstory&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahildevstory&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahildevstory&theme=tokyonight&hide_border=true)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahildevstory&theme=tokyo-night&hide_border=true)  
 
 </div>
 
